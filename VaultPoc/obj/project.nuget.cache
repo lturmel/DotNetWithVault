@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "RG+wxeNXfS76c9bM3Pnx0e2he0qkr78HB4gZ7CZPUsoCDsU+HkDSY8y2hUn2HPLPGvgqua3AI+sDXIOhPyShBA==",
+  "success": true,
+  "projectFilePath": "/Users/lturmel/Projects/VaultPoc/VaultPoc/VaultPoc.csproj",
+  "expectedPackageFiles": [
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration.binder/7.0.3/microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration.environmentvariables/7.0.0/microsoft.extensions.configuration.environmentvariables.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.configuration.json/7.0.0/microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/Users/lturmel/.nuget/packages/vaultsharp/1.12.2.1/vaultsharp.1.12.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
